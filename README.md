@@ -3,7 +3,7 @@
 Desain web ini berisi homepage, archive, search result, 404, page, posts, single post, sidebar, widget dengan Bootstrap 3
 
 ## Tutorial Step by Step Cara Membuat Desain Web dengan Bootstrap
-Ikuti di [Playlist Seri Video Tutorialnya](https://www.youtube.com/playlist?list=PLFLsT6z_5FzljaZdwlfyZFEgfKtkYDTPl/) di YouTube
+Ikuti di [Playlist Seri Video Tutorialnya](https://www.youtube.com/playlist?list=PLFLsT6z_5FzljaZdwlfyZFEgfKtkYDTPl/) di **YouTube**
 
 1. [Membuat Intro dan Custom Menu Navigasi](https://www.youtube.com/watch?v=34-1xDqytG4&index=1&list=PLFLsT6z_5FzljaZdwlfyZFEgfKtkYDTPl/)
 2. [Membuat Slider Image dan Galeri](https://www.youtube.com/watch?v=9z-YLZsWIDo&index=2&list=PLFLsT6z_5FzljaZdwlfyZFEgfKtkYDTPl/)
@@ -16,7 +16,7 @@ Ikuti di [Playlist Seri Video Tutorialnya](https://www.youtube.com/playlist?list
 
 ## Subscribe Channel JuniorDev
 
-[Junior Dev](https://www.youtube.com/c/juniordevindonesia) adalah sebuah channel tutorial komputer dan programmer mulai dari HTML, CSS, PHP, SQL, Angular, Web Design dan sebagainya. Di channel ini kamu bisa dapatkan tutorial gratis yang selalu update. Subscribe dan Like channel ini agar kamu bisa mengikuti terus tutorial-tutorialnya.
+[Junior Dev](https://www.youtube.com/c/juniordevindonesia) adalah sebuah channel tutorial komputer dan programmer mulai dari *HTML, CSS, PHP, SQL, Angular, Web Design* dan sebagainya. Di channel ini kamu bisa dapatkan tutorial gratis yang selalu update. Subscribe dan Like channel ini agar kamu bisa mengikuti terus tutorial-tutorialnya.
 
 Jangan lupa follow untuk kontak, bertanya dan berdiskusi
 * [Channel Youtube](https://www.youtube.com/c/juniordevindonesia)
@@ -26,7 +26,7 @@ Jangan lupa follow untuk kontak, bertanya dan berdiskusi
 * [Google Plus](https://plus.google.com/+JuniorDevIndonesia/posts)
 * [Email](mailto:hellojuniordev@gmail.com)
 
-Jangan lupa subscribe ya..!
+Jangan lupa [**SUBSCRIBE**](https://www.youtube.com/c/juniordevindonesia?sub_confirmation=1) ya..!
 
 ## Author
 * **Sofyan Setiawan** - *Freelance Web Designer and Developer* - [Facebook](https://www.facebook.com/sofyansetiawanprofile) - [@sofyansetiawann](https://twitter.com/sofyansetiawann)
