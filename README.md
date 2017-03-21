@@ -2,8 +2,8 @@
 
 Desain web ini berisi homepage, archive, search result, 404, page, posts, single post, sidebar, widget dengan Bootstrap 3
 
-## Tutorial Step by Step Cara Membuat Desain Web ini (via Youtube)
-Ikuti [Playlist Series Tutorial](https://www.youtube.com/playlist?list=PLFLsT6z_5FzljaZdwlfyZFEgfKtkYDTPl/)
+## Tutorial Step by Step Cara Membuat Desain Web ini
+Ikuti [Playlist Series Tutorial](https://www.youtube.com/playlist?list=PLFLsT6z_5FzljaZdwlfyZFEgfKtkYDTPl/) di YouTube
 
 1. [Intro dan Custom Menu Navigasi](https://www.youtube.com/watch?v=34-1xDqytG4&index=1&list=PLFLsT6z_5FzljaZdwlfyZFEgfKtkYDTPl/)
 2. [Slider Image dan Galeri](https://www.youtube.com/watch?v=9z-YLZsWIDo&index=2&list=PLFLsT6z_5FzljaZdwlfyZFEgfKtkYDTPl/)
@@ -28,5 +28,5 @@ Jangan lupa follow untuk kontak, bertanya dan berdiskusi
 
 Jangan lupa subscribe ya..!
 
-##Author
+## Author
 * **Sofyan Setiawan** - *Freelance Web Designer and Developer* - [Facebook](https://www.facebook.com/sofyansetiawanprofile) - [@sofyansetiawann](https://twitter.com/sofyansetiawann)
