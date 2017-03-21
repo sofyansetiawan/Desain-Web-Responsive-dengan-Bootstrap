@@ -1,4 +1,4 @@
-# Desain-Web-Responsive-dengan-Bootstrap
+# Desain Web Responsive dengan Bootstrap
 
 Desain web ini berisi homepage, archive, search result, 404, page, posts, single post, sidebar, widget dengan Bootstrap 3
 
